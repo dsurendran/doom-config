@@ -51,3 +51,5 @@
 (package! spacemacs-theme)
 (package! color-theme-sanityinc-tomorrow)
 (package! color-theme-sanityinc-solarized)
+(package! aggressive-indent)
+(package! telephone-line)
