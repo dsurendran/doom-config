@@ -4,8 +4,7 @@
 ;; sync' after modifying this file!
 
 
-;; Some functionality uses this to identify you, e.g. GPG configuration, email
-;; clients, file templates and snippets. It is optional.
+
 (setq user-full-name "Surendran D"
       user-mail-address "surendran.d@gmail.com")
 
@@ -21,7 +20,7 @@
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
 ;;
-(setq doom-font (font-spec :family "Menlo" :size 20 :weight 'semi-light)
+(setq doom-font (font-spec :family "Menlo" :size 20 :weight 'normal)
       doom-variable-pitch-font (font-spec :family "Menlo" :size 20))
 ;;
 ;; If you or Emacs can't find your font, use 'M-x describe-font' to look them
@@ -30,7 +29,7 @@
 ;; wasn't installed correctly. Font issues are rarely Doom issues!
 
 
-(setq doom-theme 'doom-one)
+(setq doom-theme 'doom-palenight)
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
