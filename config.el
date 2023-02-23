@@ -29,7 +29,7 @@
 ;; wasn't installed correctly. Font issues are rarely Doom issues!
 
 
-(setq doom-theme 'doom-palenight)
+(setq doom-theme 'doom-one)
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.

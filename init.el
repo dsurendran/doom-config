@@ -28,8 +28,8 @@
        vertico           ; the search engine of the future
 
        :ui
-       ;;pdeft              ; notational velocity for Emacs
        doom              ; what makes DOOM look the way it does
+       ;;pdeft              ; notational velocity for Emacs
        doom-dashboard    ; a nifty splash screen for Emacs
        ;;doom-quit         ; DOOM quit-message prompts when you quit Emacs
        ;;(emoji +unicode)  ; 🙂
@@ -172,7 +172,7 @@
        ;;solidity          ; do you need a blockchain? No.
        ;;swift             ; who asked for emoji variables?
        ;;terra             ; Earth and Moon in alignment for performance.
-       web               ; the tubes
+       ;;web               ; the tubes
        yaml              ; JSON, but readable
        ;;zig               ; C, but simpler
 

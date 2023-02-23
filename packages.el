@@ -53,3 +53,5 @@
 (package! color-theme-sanityinc-solarized)
 (package! aggressive-indent)
 (package! telephone-line)
+(package! monokai-theme)
+(package! zenburn-theme)
